@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDownloader.Spider", "MyDo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDownloader.IEPlugin", "MyDownloader.IEPlugin\MyDownloader.IEPlugin.csproj", "{91BB212C-D158-4B83-A3BC-1A41BBDC8463}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDownloader.Web.Telerik", "MyDownloader.Web.Telerik\MyDownloader.Web.Telerik.csproj", "{0E15AAFC-DE39-4151-85E1-C968E0694839}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{91BB212C-D158-4B83-A3BC-1A41BBDC8463}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91BB212C-D158-4B83-A3BC-1A41BBDC8463}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91BB212C-D158-4B83-A3BC-1A41BBDC8463}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E15AAFC-DE39-4151-85E1-C968E0694839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E15AAFC-DE39-4151-85E1-C968E0694839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E15AAFC-DE39-4151-85E1-C968E0694839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E15AAFC-DE39-4151-85E1-C968E0694839}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
